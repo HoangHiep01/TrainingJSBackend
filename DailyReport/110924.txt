@@ -1,0 +1,25 @@
+Báo cáo hàng ngày - 11/09/2024
+
+Công việc đã làm / học hôm qua:
+- Tải và cài đặt Nodejs để tạo môi trường chạy file js.
+
+- Học, tìm hiểu JS cơ bản:
+	+ Biến trong js: tìm hiểu cách khai báo, phạm vi hoạt động.
+	+ Toán tử: giống với C/C++.
+	+ Kiểu dữ liệu số(Number): tìm hiểu các giá trị của và các toán tử dùng với kiểu số.
+	+ Kiểu dữ liệu chuỗi(String): tìm hiểu cách khai báo, truy cập, toán tử so sánh, toán tử nối, sự tương tác giữa Number String và Number khi thực hiện toán tử tính toán và fomat string với `...`.
+	+ Kiểu dữ liệu boolen: tìm hiểu về giá trị và toán tử quan hệ (giống C/C++).
+	+ Kiểu dữ liệu Symbol: vẫn chưa hiểu rõ về kiểu dữ liệu này.
+	+ Giá trị Null và Undefined: tìm hiểu về ý nghĩa và so sánh giữa 2 kiểu giá trị.
+	+ Cú pháp điều kiện: tìm hiểu về cấu trúc if(), else() và switch() (giống với C/C++).
+	+ Cú pháp vòng lặp: tìm hiểu về cấu trúc while(), do{}while(), for() (giống với C/C++) và for(... of ...).
+	+ Hàm trong js: tìm hiểu cách viết hàm trong js, cách viết hàm thông thường, khai báo hàm dùng constructor, viết arrow function.
+	+ Kiểu Array: tìm hiểu cách khai báo, sử dụng, các thuộc tính và phương thức làm việc với array.
+	+ Kiểu Set: tìm hiểu cách khai báo, sử dụng, các thuộc tính và phương thức làm việc với set.
+	+ Kiểu Map: tìm hiểu cách khai báo, sử dụng, các thuộc tính và phương thức làm việc với map.
+
+
+Công việc đã làm / học hôm nay:
+- Luyện tập thực hành với bài tập trong file trainning.
+- Thông kê, viết note các kiến thức đã học.
+- Tìm hiểu về JS ở mức độ nâng cao.
