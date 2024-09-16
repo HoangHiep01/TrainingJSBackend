@@ -1,0 +1,10 @@
+Báo cáo hàng ngày - 16/09/2024
+
+Công việc đã làm / học hôm qua:
+- Tổng kết, củng cố kiến thức về hàm và mảng.
+- Thực hiện bài tập hàm và mảng.
+
+Công việc đã làm / học hôm nay:
+- Tìm hiều về Object, Class trong Js.
+- Tìm hiểu về bất đồng bộ.
+- Thực hiện bài tập.
