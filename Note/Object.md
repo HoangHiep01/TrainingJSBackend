@@ -46,7 +46,8 @@ const obj = {
   [x]: 7,
 }
 
-obj.khoa // 7
+obj.key // 7
+obj[x] // 7
 ```
 
 ## Method
