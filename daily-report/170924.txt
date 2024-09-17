@@ -1,0 +1,12 @@
+Báo cáo hàng ngày - 17/09/2024
+
+Công việc đã làm / học hôm qua:
+- Tìm hiều về Object, Class trong Js.
+- Thực hiện bài tập về Class.
+- Chỉnh sửa bài tập thực hành dựa trên nhận xét.
+
+Công việc đã làm / học hôm nay:
+- Tìm hiều về rest operators cùng cách sử dụng.
+- Tìm hiêu về Destructuring.
+- Thực hiện bài tập.
+- Tìm hiểu về bất đồng bộ.
