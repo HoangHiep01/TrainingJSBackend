@@ -184,3 +184,27 @@ Dùng để nối hai mảng.
 
 Trả về một mảng con có phần từ từ start tới end-1 từ mảng ban đầu.
 
+## Phương thức reduce
+
+```js
+reduce(callbackFn)
+reduce(callbackFn, initialValue)
+
+const array1 = [1, 2, 3, 4];
+
+// 0 + 1 + 2 + 3 + 4
+const initialValue = 0;
+const sumWithInitial = array1.reduce(
+  (accumulator, currentValue) => accumulator + currentValue,
+  initialValue,
+);
+```
+
+Thực hiện trên từng phần tử của mảng, giá trị mỗi lần trả về sẽ trở thành tham số **accumulator** cho lần gọi phần tử tiếp theo với **currentValue** là đầu vào cho giá trị phần tử đó. Giá trị cuối cùng trả về sẽ trở thành giá trị trả về cho reduce.
+
+	Nếu không có initialValue, accumulator đầu tiên nhận giá trị array.at(0).
+
+	Nếu không có initialValue, currentValue đầu tiên nhận giá trị array.at(1). Nếu có thì nhận array.at(0).
+
+## Phương thức map
+
