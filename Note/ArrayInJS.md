@@ -208,3 +208,6 @@ Thực hiện trên từng phần tử của mảng, giá trị mỗi lần tr�
 
 ## Phương thức map
 
+	<array>.map(<func>, <thisArg>)
+
+Áp dụng func trên các phần tử trong mảng. Trả về mảng mới chứa các phần tử là kết quả của việc áp dụng func vào từng phần tử.
