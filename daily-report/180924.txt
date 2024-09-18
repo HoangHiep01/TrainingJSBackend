@@ -1,0 +1,12 @@
+Báo cáo hàng ngày - 18/09/2024
+
+Công việc đã làm / học hôm qua:
+- Tìm hiều về rest operators cùng cách sử dụng.
+- Tìm hiêu về Destructuring.
+- Thực hiện bài tập.
+- Tìm hiều về callbaks, callback hell và promise.
+
+Công việc đã làm / học hôm nay:
+- Tiếp tục hiểu về bất đồng bộ.
+- Tìm hiểu về cách kiểm soát lỗi trong js.
+- Thực hiện bài tập.
