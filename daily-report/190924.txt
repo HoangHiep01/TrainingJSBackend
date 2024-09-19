@@ -1,0 +1,9 @@
+Báo cáo hàng ngày - 19/09/2024
+
+Công việc đã làm / học hôm qua:
+- Tiếp tục hiểu về bất đồng bộ: promise chain, Promise.catch ,async, await.
+- Tìm hiểu về cách kiểm soát lỗi trong js: throw, try catch finally.
+- Thực hiện bài tập.
+
+Công việc đã làm / học hôm nay:
+- Tìm hiểu sơ bộ về Typescript.
