@@ -1,0 +1,9 @@
+Báo cáo hàng ngày - 20/09/2024
+
+Công việc đã làm / học hôm qua:
+
+- Tìm hiểu sơ bộ về Typescript: Ts khá giống với Js nhưng chặt chẽ hơn về kiểu dữ liệu và có một số chức năng mà Js không có.
+
+Công việc đã làm / học hôm nay:
+
+- Tiếp tục tìm hiều về Ts, Js và những kiến thức xung quanh.
