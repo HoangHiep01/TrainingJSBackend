@@ -1,0 +1,7 @@
+Báo cáo hàng ngày - 23/09/2024
+
+Công việc đã làm / học hôm qua:
+- Tìm hiểu về decorator, interface và generic trong ts.
+
+Công việc đã làm / học hôm nay:
+- Tìm hiểu nodejs và expressjs.
