@@ -1,0 +1,20 @@
+Báo cáo hàng ngày - 24/09/2024
+
+Công việc đã làm / học hôm qua:
+
+- Đọc hiểu bài tập.
+- Tìm hiểu về Nestjs.
+- Thiết kế database theo tìm hiểu về bài tập.
+
+Công việc đã làm / học hôm nay:
+
+- Tiếp tục tìm hiểu về bài tập được giao theo keyworld.
+- Bắt đầu khởi tạo code bài tập.
+
+
+
+Sau khi đọc bài tập thì em hiểu theo hai cách mà không biết cách nào đúng nhất. Ở phần quản lý người dùng có phân làm 2 role là owner và staff.
+
+1) Em hiểu là hệ thống có 2 đối tượng làm việc chính. Trong đó, owner có quyền cao nhất và truy cập được tất cả chức năng. Còn staff là nhân viên sẽ có vai trò đứng giữa hệ thống và người mua. Kiểu người mua sẽ bằng một cách nào đó tương tác với nhân viên để đặt hàng và cả thông tin cần thiết, từ đó nhân viên sẽ dùng hệ thống để lên đơn đặt hàng.
+
+2) Người mua có thể tương tác với hệ thống (tạo tài khoản, tự chọn hàng) và người dùng không được gắn role là người mua.
