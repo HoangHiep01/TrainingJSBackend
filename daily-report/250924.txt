@@ -1,0 +1,11 @@
+Báo cáo hàng ngày - 25/09/2024
+
+Công việc đã làm / học hôm qua:
+
+- Đọc và tìm hiểu cấu trúc chương trình xây dựng bằng Nestjs: controllers, services, module, middleware
+
+- Xác định được database.
+
+Công việc đã làm / học hôm nay:
+
+- Tiếp tục tìm hiểu về các thành phần trong chương trình xây dựng theo Nestjs.
